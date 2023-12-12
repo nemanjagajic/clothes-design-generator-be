@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_order_items_order_items",
+  "info": {
+    "displayName": "Order Items",
+    "icon": "stack"
+  },
+  "options": {},
+  "attributes": {
+    "imageUrl": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "integer"
+    }
+  }
+}
