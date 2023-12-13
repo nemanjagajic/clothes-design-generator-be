@@ -35,6 +35,9 @@
       "type": "component",
       "repeatable": true,
       "component": "order-items.order-items"
+    },
+    "status": {
+      "type": "string"
     }
   }
 }
