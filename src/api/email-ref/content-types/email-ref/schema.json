@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "email_refs",
+  "info": {
+    "singularName": "email-ref",
+    "pluralName": "email-refs",
+    "displayName": "EmailRef"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "ref": {
+      "type": "string"
+    }
+  }
+}
